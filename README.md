@@ -1,4 +1,5 @@
 # gql-server
+simple GraphQL API server with NestJS
 
 ## Environment
 - Node v17
